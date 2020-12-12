@@ -128,14 +128,14 @@ Olá, meu nome é Bruno, sou um estudante da Etec - Ensino Médio - Presidente P
 
 <div align = "center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Status Github - Portfolio](https://github-readme-stats.vercel.app/api?username=Cyber-Root0&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
 </div>
 
-<h3>Thanks for Stopping by!! 😊</h3>
+<h3>Obrigado Por Aparecer! 😊</h3>
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/parth-27) 
+⭐️ From [Cyber-Root0](https://github.com/Cyber-Root0) 
