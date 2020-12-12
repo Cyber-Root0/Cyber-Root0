@@ -1,15 +1,16 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Parth!](https://github.com/parth-27) !!
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Cyber!](https://github.com/Cyber-Root0) !!
 
 </h2>
 
 <hr/>
 
-## About Me
+## Sobre Mim
 
-Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+Olá, meu nome é Bruno, sou um estudante da Etec - Ensino Médio - Presidente Prudente; Sou um entusiasta de tecnologia. Estou ansioso para aprender novas habilidades e adicioná-las à lista. E, Curto Segurança Cibernetica e Hacking, Inteligencia de Fontes Abertas e Computação Forense!
 
 
-## Coding Profiles
+
+## Perfis
 
 <a href="https://www.codechef.com/users/night_king_">
   <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
@@ -21,7 +22,7 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
 
 <hr/>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Minha Pilha Tecnologica
 
 <table>
   <tbody>
@@ -87,7 +88,7 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ Onde Voce pode Me Encontrar ✨
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
