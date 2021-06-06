@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá, meu nome é Bruno, sou um estudante da Etec - Ensino Médio - Presidente Prudente; Sou um entusiasta de tecnologia. Estou ansioso para aprender novas habilidades e adicioná-las à lista. E, Curto Segurança Cibernetica e Hacking, Inteligencia de Fontes Abertas e Computação Forense!
+Olá, meu nome é Cyber, sou um estudante da Etec - Ensino Médio - Presidente Prudente; Sou um entusiasta de tecnologia. Estou ansioso para aprender novas habilidades e adicioná-las à lista. E, Curto Segurança Cibernetica e Hacking, Inteligencia de Fontes Abertas e Computação Forense!
 
 
 
