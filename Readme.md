@@ -2,7 +2,7 @@
 
 </h2>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBruh&layout=compact&theme=radical)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Root0&layout=compact&theme=radical)
 
 <hr/>
 
