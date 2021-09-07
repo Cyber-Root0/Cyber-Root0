@@ -1,6 +1,7 @@
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Cyber!](https://github.com/Cyber-Root0) ! Ethical Hacker
 
 </h2>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Root0&layout=compact&theme=radical)
 
 <hr/>
 
