@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Olá, Eu sou o Cyber, sou um estudante de Programação na Etec - Presidente Prudente; Sou um entusiasta de tecnologia. Estou ansioso para aprender novas habilidades e adicioná-las à lista. E, Curto Segurança Cibernetica e Hacking, Inteligencia de Fontes Abertas e Computação Forense!
+Olá, Eu sou o Cyber, sou um estudante de Programação na Etec Sou um entusiasta de tecnologia. Estou ansioso para aprender novas habilidades e adicioná-las à lista. E, Curto Segurança Cibernetica e Hacking, Inteligencia de Fontes Abertas e Computação Forense!
 
 
 
