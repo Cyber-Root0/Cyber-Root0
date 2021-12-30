@@ -8,7 +8,9 @@
 
 ## Sobre Mim
 
-Olá, Eu sou o Cyber, sou um estudante de Programação na Etec Sou um entusiasta de tecnologia. Estou ansioso para aprender novas habilidades e adicioná-las à lista. E, Curto Segurança Cibernetica e Hacking, Inteligencia de Fontes Abertas e Computação Forense!
+Olá, Eu sou o Cyber. Desenvolvedor Web, Software e Mobile. Formado pela Etec de Presidente Prudente, E
+Graduando ADS pela Fatec de Presidente Prudente. Entusiasta de Várias áreas da tecnologia, todavia apaixonado 
+por programação e Hacking. Estou ansioso para aprender novas habilidades e adicioná-las à lista. E, Curto Segurança Cibernetica e Hacking, Inteligencia de Fontes Abertas e Computação Forense!
 
 
 
