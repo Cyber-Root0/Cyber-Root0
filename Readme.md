@@ -27,61 +27,23 @@ por programação e Hacking. Estou ansioso para aprender novas habilidades e adi
 ## Minha Pilha Tecnologica
 
 <table>
-  <tbody>
-    <tr valign="top">
-      
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      
-      <td width="25%" align="center">
-        <span><strong>C#</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png">
-      </td>
-      
-    </tr>
-    
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      
-      <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
-      </td>
-    </tr>
-    
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>C++</strong></span><br><br><br>
-        <img height="64px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      
-    </tr>
-  </tbody>
+<tbody>
+<tr valign="top">
+<td align="center" width="25%">𝗛𝗧𝗠𝗟𝟱<br /><br /><br /><img src="https://cdn.svgporn.com/logos/html-5.svg" height="64px" /></td>
+<td align="center" width="25%">𝗖𝗦𝗦𝟯<br /><br /><br /><img src="https://cdn.svgporn.com/logos/css-3.svg" height="64px" /></td>
+<td align="center" width="25%">𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁<br /><br /><br /><img src="https://cdn.svgporn.com/logos/javascript.svg" height="64px" /></td>
+<td align="center" width="25%"><strong>C#</strong> <br /><br /><br /><img src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" height="64px" /></td>
+</tr>
+<tr valign="top">
+<td align="center" width="25%">𝗚𝗶𝘁<br /><br /><br /><img src="https://cdn.svgporn.com/logos/git-icon.svg" height="64px" /></td>
+<td align="center" width="25%">𝗩𝗦 𝗖𝗼𝗱𝗲<br /><br /><br /><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="64px" /></td>
+<td align="center" width="25%"><strong>C</strong><br /><br /><br /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png" height="64px" /></td>
+</tr>
+<tr valign="top">
+<td align="center" width="25%"><strong>C++</strong><br /><br /><br /><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px" /></td>
+<td align="center" width="25%"><strong>MySql</strong><br /><br /><br /><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="64px" /></td>
+</tr>
+</tbody>
 </table>
 <hr>
 
