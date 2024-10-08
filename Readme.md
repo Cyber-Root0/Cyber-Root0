@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Bruno Alves from Brazil <br><br>- 🔭 I’m working as Administrative Contracts <br>- 📚 I'm currently learning 3DS Secure Payments, Banks Integrations<br>- ⚡ In my free time I play games and watch movies</p>
+<p align="left">I'm Bruno Alves from Brazil <br><br>- 🔭 I’m working with Administrative Contracts <br>- 📚 I'm currently learning 3DS Secure Payments, Banks Integrations<br>- ⚡ In my free time I play games and watch movies</p>
 
 ###
 
